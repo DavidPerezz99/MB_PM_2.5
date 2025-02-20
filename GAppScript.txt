@@ -1,0 +1,19 @@
+function doPost(e) {
+  try {
+    var data = JSON.parse(e.postData.contents);
+    var samples = data.samples;
+    
+    var sheet = SpreadsheetApp.openById("1U2DHCZ90NcyirM_p22luc3ieco4Ib7S8D-3QVkKBnQ8").getActiveSheet();
+    var timestamp = new Date();
+
+    for (var i = 0; i < samples.length; i++) {
+      sheet.appendRow([timestamp, Number(samples[i]), "Temp"]);
+      timestamp.setMilliseconds(timestamp.getMilliseconds() + (1000 / samples.length));
+    }
+
+    return ContentService.createTextOutput("Data received successfully");
+  } catch (error) {
+    Logger.log(error.message);
+    return ContentService.createTextOutput("Error: " + error.message);
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tribal-spanner-428114-a9",
+  "private_key_id": "c97585ef299f48f881cfa6c91fc710a8204dbd5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDb9RK8MTVIuQn1\nixgmADcZzr4PY6DVM8S6YgYnw6VjW+O4Dz/AgdTClgv6WaS1Kal+U3ob1dbu0XBp\nKpLzGF5hL1dyQFwOiHAsJGtA03t/+gee/pX6eZperA9k8nr9nfLq515S+WtIw/Gw\n2shUF2HbuE0cDI3cFyN4wHV3r5N8TAZfk8/hKVGXNerXnw0S26Szpp7sxMhZkEVX\nhCBcYSBA1v62tRcNm9N4ZPrIDYRREneF20P1yy/d/J1UWReSnh0/SmBodTRfsA6+\n+iSOXI7G5+V6I5SdoeTRgOyg3Bp4AR3dVjwlgmUd4TKTT/+v981w/N+qmJMWXTSE\nHNk0rtRlAgMBAAECggEAKGJ7BeAQDTHiLPnUnXeJJl0h4r/zUenPGzxvrmHazh8b\nNJpiJWWBC5gSi2zlk5iaZNYNU6qDq7X7CmgVcno9K+FOEC1WaZmt5MDsC0s4/+KH\nfy71mPc2O18idXGa2NFk/jGsTRY71zCYwdStltjzL+0LBVUdv7Tk36EQgEDVlqqk\nhqzfVjkhyZws69kqw+LgZ7gTzqe1xfZnjb3gmZ68KY1OeDcf+xTE40ryFqcDzGvc\niIPJAghg0SQzteKk5Pr658MFCPypFlHH/WuPN06RPG7aw6pnriqpR8IQP4SqDQGa\nWhJqmfdwunnKCxLC/vofmaT8hZpQEIR8JKlxccbhMQKBgQD2e58ebndeKqPriVFe\nTxnihxvLQVZV6ULN1FRzDivGfYxH+2Nm3rtia/wybjYgPb+Ga9044NOe5E8RaAgh\nQUr0MS9zNqmCzYbhO3/WTbDCfhvr0IxTbQTmq5PxyejI1XXNezu9GKtlXhTGE6Yp\nmkr/KzxXoiRWg9eUFf4n9/5ZVQKBgQDkc0HwJkfECfctLh9qzLisTmmzX8lup0C6\nWdV6gA32z5AicU+hh9xMhHwy5pXxpHn3iNyVBiP/YgWmjtHiZWPdJ98CUhpz/tO8\nK63SIrLnK8Ui6NKZl6nUBP6yWmK4VRU+nVlzkb7dB54+1ZEEZrMITkKluz0tj5nU\nVrRiA5BO0QKBgF0iCtaZ0Nqw6+0knq0u4E361SKw1mlx0P8q+pnawemnKKlOMJn/\nEPi4aru3bxYxnruw6A8EzJFeHQ4rq9686BBqwU4cWmKFPDDApaYZBvAGbJBm5Y7k\nQ5TRQf57V00DcxaoOMNTnfeYW+sYI5HWrf3KnWtTZb2W5Y8b3EPH7cBdAoGAdPvw\nkCGKLoFL6f7sZ6xeBR5CUnCCnf9XzhWilBBvFixECt8rf/Qqg6R0VTxvHEa1jmSv\nUEDMvkJb0mbgY6a39NAuCuowUaX0ly9m22yZYHexg6bl8XEQrlnAc2SFmQ84yc+Z\ntuyzaEw2ZMbIdBCDLYWl62huc55Nj8a2qFpa04ECgYAjtkp9RQ26F00Pls8odGL+\nOtWvprZXMVGzeepf2ysROQGJBuw5RiUSoL20P6h40MKuLv+dj/ydQy29l7EK4lcw\npeQQYUY7uEXPNs9adqjHiHR6xm2zVDP1isnkAhN3Ss8LaArKzKkOX10THGEMYpkj\nJzo2FShU+iIyOZDMwkAhlg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dse-deploy-api@tribal-spanner-428114-a9.iam.gserviceaccount.com",
+  "client_id": "104000675196517637986",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dse-deploy-api%40tribal-spanner-428114-a9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
